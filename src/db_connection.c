@@ -1,5 +1,4 @@
 #include "../include/db_connection.h"
-#include <stdlib.h>
 
 SQLHENV env;
 SQLHDBC dbc;

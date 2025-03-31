@@ -3,6 +3,7 @@
 
 #include <sql.h>
 #include <sqlext.h>
+#include <stdlib.h>
 
 SQLRETURN connect_db(const char *conninfo);
 void close_db();
